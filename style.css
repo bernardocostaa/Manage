@@ -150,7 +150,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: -1;
-    animation: minhaAnimacao 1s ease-in-out;
+    animation: minhaAnimacao 1.8s ease-in-out;
 }
   
   .bg-img-dif::before{
@@ -286,4 +286,24 @@ body {
 
   [data-control="slide"] li.ativo a, [data-control="slide"] li a:hover{
     background: var(--BrightRed);
+  }
+
+  @keyframes animaCima{
+    0%{
+      opacity: 0;
+      transform: translate3d(0,-200px,0);
+    }
+    100%{
+      opacity: 1;
+      transform: translate3d(0,0,0);
+    }
+  }
+
+  #nav{
+    animation: animaCima 1s forwards ;
+  }
+
+  #sectionPrin{
+    animation: animaCima 1.5s forwards ;
+
   }

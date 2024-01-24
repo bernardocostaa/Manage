@@ -144,7 +144,7 @@ body {
   .bg-img-nav::before {
     content: "";
     position: absolute;
-    background: url(/img/bg-tablet-pattern.svg) no-repeat;
+    background: url(./img/bg-tablet-pattern.svg) no-repeat;
     background-position: top -18rem right -15rem;
     background-size: 65rem 60rem;
     width: 100%;
@@ -156,7 +156,7 @@ body {
   .bg-img-dif::before{
     content: "";
     position: absolute;
-    background: url(/img/bg-tablet-pattern.svg) no-repeat;
+    background: url(./img/bg-tablet-pattern.svg) no-repeat;
     background-position: top 17rem left -20rem;
     background-size: 35rem 35rem;
     width: 100%;
@@ -165,7 +165,7 @@ body {
   }
 
   .bg-img-simplify{
-    background-image: url(/img/bg-simplify-section-desktop.svg);
+    background-image: url(./img/bg-simplify-section-desktop.svg);
     background-repeat: no-repeat;
     background-position: 200px -140px;
     height: 220px;
@@ -197,7 +197,7 @@ body {
     }
 
     .bg-img-simplify{
-      background-image: url(/img/bg-simplify-section-mobile.svg);
+      background-image: url(./img/bg-simplify-section-mobile.svg);
       background-repeat: no-repeat;
       background-position: left;
       height: auto;
@@ -213,7 +213,7 @@ body {
     .bg-img-nav::before {
       content: "";
       position: absolute;
-      background: url(/img/bg-tablet-pattern.svg) no-repeat;
+      background: url(./img/bg-tablet-pattern.svg) no-repeat;
       background-position: top -14rem right -18rem;
       background-size: 65rem 49rem;
       width: 100%;
@@ -228,7 +228,7 @@ body {
   .bg-img-dif-mobile::before{
     content: "";
     position: absolute;
-    background: url(/img/bg-tablet-pattern.svg) no-repeat;
+    background: url(./img/bg-tablet-pattern.svg) no-repeat;
     background-position: top 26rem right -16rem;
     background-size: 26rem 26rem;
     width: 100%;
@@ -246,7 +246,7 @@ body {
     .bg-img-nav::before {
       content: "";
       position: absolute;
-      background: url(/img/bg-tablet-pattern.svg) no-repeat;
+      background: url(./img/bg-tablet-pattern.svg) no-repeat;
       background-position: top -12rem right -18rem;
       background-size: 35rem 39rem;
       width: 100%;
@@ -257,7 +257,7 @@ body {
     .bg-img-dif::before{
       content: '';
       position: absolute;
-      background: url(/img/bg-tablet-pattern.svg) no-repeat;
+      background: url(./img/bg-tablet-pattern.svg) no-repeat;
       width: 100%;
       right: -643px;
       height: 798px;

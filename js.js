@@ -192,6 +192,6 @@ menuMobile.addEventListener('click', handleMenu.bind(menuMobile));
 
 function handleMenu() {
   menu.classList.toggle('mobileMenu');
-  menuMobileImg.setAttribute('src', menu.classList.contains('mobileMenu') ? '/img/icon-close.svg' : '/img/icon-hamburger.svg');
+  menuMobileImg.setAttribute('src', menu.classList.contains('mobileMenu') ? './img/icon-close.svg' : './img/icon-hamburger.svg');
   menu.classList.contains('mobileMenu') ? body.classList.add('bg-mobile') : body.classList.remove('bg-mobile');
 }

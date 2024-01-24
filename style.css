@@ -307,3 +307,9 @@ body {
     animation: animaCima 1.5s forwards ;
 
   }
+
+  @media(max-width:1024px){
+    #nav{
+      animation: none ;
+    }
+  }

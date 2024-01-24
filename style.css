@@ -165,7 +165,7 @@ body {
   }
 
   .bg-img-simplify{
-    background-image: url(img/bg-simplify-section-desktop.svg);
+    background-image: url(/img/bg-simplify-section-desktop.svg);
     background-repeat: no-repeat;
     background-position: 200px -140px;
     height: 220px;
@@ -197,7 +197,7 @@ body {
     }
 
     .bg-img-simplify{
-      background-image: url(img/bg-simplify-section-mobile.svg);
+      background-image: url(/img/bg-simplify-section-mobile.svg);
       background-repeat: no-repeat;
       background-position: left;
       height: auto;
@@ -257,7 +257,7 @@ body {
     .bg-img-dif::before{
       content: '';
       position: absolute;
-      background: url(img/bg-tablet-pattern.svg) no-repeat;
+      background: url(/img/bg-tablet-pattern.svg) no-repeat;
       width: 100%;
       right: -643px;
       height: 798px;

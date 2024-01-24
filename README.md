@@ -25,7 +25,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Link do Projeto: [Manage](https://bernardocostaa.github.io/Bookmark/)
+Link do Projeto: [Manage](https://bernardocostaa.github.io/Manage/)
 
 
 ## :memo: Licença
